@@ -2,7 +2,7 @@
 Maciej Pawlikowski
 ### Project A
 #### Done:
-* I've read provided research papers
+* I've read the provided research papers
 * Already implemented methods:
 	* MI, 
 	* CMI, 
@@ -11,12 +11,12 @@ Maciej Pawlikowski
 	* JMI, 
 	* mRMR, 
 	* CMIM
-* Stopping rule- number ok predictors
-* Initial tests with artifficial datasets
+* Stopping rule- number of predictors
+* Initial tests with artificial datasets
 * Choice of arbitrary methods:
 	* Boruta
 	* Feature importance
 
 #### To do:
-* Find real world dataset
+* Find real-world dataset
 * Create final artificial examples
